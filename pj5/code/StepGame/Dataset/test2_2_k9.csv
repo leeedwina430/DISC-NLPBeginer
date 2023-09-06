@@ -1,0 +1,41 @@
+k,answers,predicts
+2,upper-left,below-right
+2,lower-right,above-left
+2,below,below
+2,upper-right,upper-right
+2,below,left
+2,upper-right,upper-right
+2,lower-right,to the left and below
+2,upper-right,upper-right
+2,above,above
+2,left,overlap
+2,lower-right,right
+2,left,overlap
+2,below,right
+2,left,right
+2,upper-right,bottom-left
+2,lower-left,slightly to the left
+2,left,below-left
+2,below,right
+2,left,right
+2,upper-left,below and to the left
+2,left,right
+2,upper-left,upper-left
+2,upper-left,upper-left
+2,overlap,lower-right
+2,lower-left,upper-left
+2,upper-right,lower-left
+2,lower-right,above-left
+2,upper-right,right-above
+2,right,right
+2,upper-left,overlap
+2,right,overlap
+2,lower-left,lower-left
+2,upper-right,right
+2,upper-left,upper-left
+2,upper-left,upper-left
+2,upper-left,right
+2,upper-left,to the right and below
+2,above,below and to the right
+2,upper-left,upper-right
+2,lower-right,upper-left

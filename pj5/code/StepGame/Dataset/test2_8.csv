@@ -1,0 +1,41 @@
+k,answers,predicts
+8,upper-left,below and to the right
+8,lower-right,diagonally to the bottom left
+8,below,above and next to
+8,upper-right,upper-right
+8,below,to the left
+8,upper-right,north east
+8,lower-right,above and to the left
+8,upper-right,directly right.
+8,above,above
+8,left,overlap
+8,lower-right,right
+8,left,upper left
+8,below,right
+8,left,below
+8,upper-right,overlap
+8,lower-left,over there
+8,left,left
+8,below,right
+8,left,right
+8,upper-left,above
+8,left,right
+8,upper-left,overlap
+8,upper-left,upper-left
+8,overlap,below
+8,lower-left,upper-right
+8,upper-right,below
+8,lower-right,above-left
+8,upper-right,below-left
+8,right,right
+8,upper-left,over
+8,right,above-right
+8,lower-left,left
+8,upper-right,right
+8,upper-left,upper left
+8,upper-left,upper left
+8,upper-left,right
+8,upper-left,below and to the right
+8,above,above
+8,upper-left,diagonally to the upper right
+8,lower-right,diagonally above to the left at a 45 degree angle.

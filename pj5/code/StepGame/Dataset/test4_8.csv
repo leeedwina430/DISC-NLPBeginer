@@ -1,0 +1,41 @@
+k,answers,predicts
+8,left,upper-left
+8,left,below
+8,upper-right,above
+8,right,bottom right
+8,above,above
+8,above,above
+8,right,below
+8,lower-right,left
+8,left,left
+8,upper-left,above
+8,above,below
+8,overlap,upper-left
+8,upper-left,left
+8,lower-right,below
+8,above,right
+8,lower-left,below
+8,left,overlap
+8,upper-left,to the right and below
+8,below,to the top right
+8,above,above
+8,above,to the lower left
+8,below,below and to the left
+8,below,below
+8,upper-right,above
+8,lower-left,below and to the left
+8,overlap,diagonally to the upper left
+8,lower-right,to the bottom left
+8,upper-right,to the left
+8,upper-right,above
+8,left,to the left
+8,upper-left,placed at the lower right
+8,above,above
+8,upper-right,diagonally to the bottom left
+8,below,above
+8,lower-right,above and to the left
+8,overlap,north east of
+8,upper-left,to the right
+8,above,above and to the left
+8,lower-right,to the right and above
+8,lower-left,positioned above.

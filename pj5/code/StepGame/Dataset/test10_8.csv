@@ -1,0 +1,41 @@
+k,answers,predicts
+8,lower-right,upper-left
+8,below,left
+8,left,upper-right
+8,lower-right,below
+8,left,left
+8,upper-right,lower right
+8,below,above
+8,overlap,above
+8,upper-right,overlap
+8,upper-left,above
+8,below,below
+8,lower-right,below
+8,upper-right,above
+8,left,above
+8,overlap,below
+8,lower-right,right
+8,lower-right,overlap
+8,lower-right,below
+8,left,overlap
+8,lower-left,to the left
+8,right,lower right
+8,lower-right,to the right
+8,lower-left,below and to the left
+8,left,to the left
+8,lower-right,overlap
+8,overlap,above
+8,lower-left,left
+8,lower-left,below
+8,upper-left,upper-right
+8,upper-right,above
+8,lower-left,above
+8,left,to the right
+8,left,lower-right
+8,upper-right,above
+8,lower-right,diagonally-up-and-to-the-right
+8,lower-left,above
+8,overlap,lower-left
+8,right,next-to
+8,lower-left,below
+8,lower-left,next-to

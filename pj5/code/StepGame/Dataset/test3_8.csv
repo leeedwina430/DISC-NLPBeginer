@@ -1,0 +1,41 @@
+k,answers,predicts
+8,above,bottom left
+8,upper-right,below
+8,left,below
+8,right,bottom
+8,right,left
+8,upper-left,upper left
+8,upper-left,above
+8,overlap,upper left
+8,below,overlap
+8,overlap,right
+8,lower-left,left
+8,upper-right,above
+8,overlap,below
+8,above,above
+8,overlap,below
+8,right,above
+8,below,below
+8,upper-left,above
+8,upper-right,above-right
+8,lower-left,below-left
+8,below,below
+8,upper-right,to-the-right
+8,lower-left,above-left
+8,lower-right,diagonal-to-the-right
+8,upper-right,below and to the right
+8,lower-right,above and to the left
+8,lower-left,at a 45 degree angle in the lower lefthand corner
+8,upper-left,to the left
+8,left,over there and directly below
+8,lower-left,below and to the left
+8,above,to the right
+8,right,to the right
+8,right,front-right
+8,lower-left,upper-right
+8,below,below
+8,lower-right,below-right
+8,upper-right,lower-left
+8,upper-left,above
+8,lower-left,below
+8,upper-left,above-right

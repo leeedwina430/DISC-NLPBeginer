@@ -1,0 +1,41 @@
+k,answers,predicts
+8,lower-right,diagonal to the upper right
+8,left,above and to the right
+8,above,over there
+8,right,to the right
+8,above,diagonal to the upper left
+8,lower-left,at the 10 position of a clock face
+8,lower-left,placed at the lower left
+8,upper-left,over there
+8,below,diagonally above and to the left
+8,left,overlap
+8,upper-right,diagonally above and to the right
+8,above,diagonally below and to the left
+8,lower-left,diagonally to the upper right
+8,lower-right,to the left and above
+8,below,diagonally to the bottom left
+8,lower-right,placed at the upper right.
+8,below,above
+8,lower-left,overlap
+8,upper-right,above
+8,lower-right,above
+8,lower-left,below
+8,upper-left,to the right and below
+8,upper-left,to the right
+8,overlap,above
+8,below,below
+8,left,above
+8,upper-left,below
+8,lower-right,above
+8,lower-right,left
+8,above,above
+8,upper-right,below
+8,below,diagonally below
+8,upper-left,overlap
+8,right,left
+8,below,right
+8,right,above
+8,upper-left,below
+8,upper-left,above
+8,upper-left,above
+8,left,right

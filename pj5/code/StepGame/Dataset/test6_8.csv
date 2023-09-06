@@ -1,0 +1,41 @@
+k,answers,predicts
+8,upper-left,below and slightly to the right
+8,above,directly below
+8,upper-left,overlap
+8,below,directly below
+8,left,placed in the top left corner
+8,overlap,above and slightly to the left
+8,above,on the top of it
+8,upper-right,on the right side and top
+8,below,above
+8,above,above
+8,lower-left,overlap
+8,lower-left,above
+8,upper-right,below
+8,right,right
+8,above,below
+8,above,northwest of
+8,lower-left,overlap
+8,lower-right,right
+8,lower-left,upper left
+8,above,below
+8,upper-left,left
+8,lower-right,lower right
+8,upper-right,upper right
+8,above,top
+8,right,below
+8,lower-right,to the top-right
+8,lower-left,to the right
+8,upper-left,to the right
+8,lower-left,to the left
+8,overlap,below
+8,right,above
+8,above,upper right
+8,lower-right,overlap
+8,upper-right,upper-right
+8,above,below-right
+8,below,under
+8,upper-right,below
+8,above,below-right
+8,above,above-right
+8,lower-right,left

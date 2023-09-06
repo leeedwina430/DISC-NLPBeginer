@@ -1,0 +1,41 @@
+k,answers,predicts
+5,upper-left,below and to the right
+5,lower-right,above and to the left
+5,below,above
+5,upper-right,above and to the right
+5,below,to the left
+5,upper-right,north east
+5,lower-right,above and to the left
+5,upper-right,diagonally right and above
+5,above,top
+5,left,to the left
+5,lower-right,right
+5,left,upper-left
+5,below,right
+5,left,left
+5,upper-right,bottom-left
+5,lower-left,overlap
+5,left,left
+5,below,right
+5,left,right
+5,upper-left,above
+5,left,right
+5,upper-left,diagonally left and above
+5,upper-left,upper and slightly to the left
+5,overlap,upper righthand corner
+5,lower-left,upper right
+5,upper-right,overlap
+5,lower-right,above and slightly to the left
+5,upper-right,above and to the right
+5,right,right
+5,upper-left,above and to the right
+5,right,overlap
+5,lower-left,below
+5,upper-right,right
+5,upper-left,upper left
+5,upper-left,upper left
+5,upper-left,lower-right
+5,upper-left,upper-right
+5,above,upper
+5,upper-left,upper-right
+5,lower-right,upper-left
